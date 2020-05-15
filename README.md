@@ -5,11 +5,11 @@ $ apt install php
 $ apt install toilet
 $ apt install git
 $ git clone https://github.com/Kichan-Gans/FreePulsa
-$ cd Pulsa
+$ cd FreePulsa
 $ ls
 $ chmod +x *
 $ ls
-$ sh Pulsa.sh
+$ bash FreePulsa.sh
 
 
 
